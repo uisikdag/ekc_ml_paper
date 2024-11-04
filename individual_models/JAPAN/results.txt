@@ -1,0 +1,114 @@
+Results for JAPAN
+=================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.9351
+Train RMSE: 0.5254
+Test R2: 0.9413
+Test RMSE: 0.3958
+
+SVR:
+Train R2: 0.9899
+Train RMSE: 0.2071
+Test R2: 0.9709
+Test RMSE: 0.2787
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9432
+Test RMSE: 0.3893
+
+DT:
+Train R2: 0.9992
+Train RMSE: 0.0584
+Test R2: 0.8769
+Test RMSE: 0.5730
+
+XGB:
+Train R2: 0.9959
+Train RMSE: 0.1314
+Test R2: 0.9242
+Test RMSE: 0.4498
+
+CAT:
+Train R2: 0.9991
+Train RMSE: 0.0616
+Test R2: 0.9050
+Test RMSE: 0.5033
+
+RF:
+Train R2: 0.9980
+Train RMSE: 0.0914
+Test R2: 0.8962
+Test RMSE: 0.5261
+
+ANN:
+Train R2: 0.9713
+Train RMSE: 0.3496
+Test R2: 0.9832
+Test RMSE: 0.2117
+
+LSTM:
+Train R2: 0.9670
+Train RMSE: 0.3747
+Test R2: 0.9716
+Test RMSE: 0.2754
+
+SO2 Results:
+
+EKC:
+Train R2: 0.9353
+Train RMSE: 0.2974
+Test R2: 0.9343
+Test RMSE: 0.3006
+
+SVR:
+Train R2: 0.9960
+Train RMSE: 0.0737
+Test R2: 0.9965
+Test RMSE: 0.0694
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9941
+Test RMSE: 0.0901
+
+DT:
+Train R2: 0.9989
+Train RMSE: 0.0379
+Test R2: 0.9674
+Test RMSE: 0.2118
+
+XGB:
+Train R2: 0.9980
+Train RMSE: 0.0525
+Test R2: 0.9905
+Test RMSE: 0.1145
+
+CAT:
+Train R2: 0.9992
+Train RMSE: 0.0338
+Test R2: 0.9907
+Test RMSE: 0.1134
+
+RF:
+Train R2: 0.9961
+Train RMSE: 0.0731
+Test R2: 0.9891
+Test RMSE: 0.1227
+
+ANN:
+Train R2: 0.9932
+Train RMSE: 0.0963
+Test R2: 0.9934
+Test RMSE: 0.0953
+
+LSTM:
+Train R2: 0.9908
+Train RMSE: 0.1122
+Test R2: 0.9921
+Test RMSE: 0.1041

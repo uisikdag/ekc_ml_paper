@@ -1,0 +1,114 @@
+Results for NORWAY
+==================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.7981
+Train RMSE: 0.5776
+Test R2: 0.8016
+Test RMSE: 0.4324
+
+SVR:
+Train R2: 0.8842
+Train RMSE: 0.4374
+Test R2: 0.9646
+Test RMSE: 0.1826
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9694
+Test RMSE: 0.1698
+
+DT:
+Train R2: 0.9991
+Train RMSE: 0.0389
+Test R2: 0.9422
+Test RMSE: 0.2334
+
+XGB:
+Train R2: 0.9978
+Train RMSE: 0.0600
+Test R2: 0.9718
+Test RMSE: 0.1631
+
+CAT:
+Train R2: 0.9999
+Train RMSE: 0.0131
+Test R2: 0.9513
+Test RMSE: 0.2142
+
+RF:
+Train R2: 0.9694
+Train RMSE: 0.2250
+Test R2: 0.9817
+Test RMSE: 0.1314
+
+ANN:
+Train R2: 0.9242
+Train RMSE: 0.3539
+Test R2: 0.9611
+Test RMSE: 0.1916
+
+LSTM:
+Train R2: 0.9429
+Train RMSE: 0.3072
+Test R2: 0.9435
+Test RMSE: 0.2307
+
+SO2 Results:
+
+EKC:
+Train R2: 0.9331
+Train RMSE: 0.2364
+Test R2: 0.9621
+Test RMSE: 0.1811
+
+SVR:
+Train R2: 0.9782
+Train RMSE: 0.1350
+Test R2: 0.9792
+Test RMSE: 0.1341
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9870
+Test RMSE: 0.1060
+
+DT:
+Train R2: 0.9859
+Train RMSE: 0.1083
+Test R2: 0.9790
+Test RMSE: 0.1347
+
+XGB:
+Train R2: 0.9934
+Train RMSE: 0.0742
+Test R2: 0.9883
+Test RMSE: 0.1006
+
+CAT:
+Train R2: 0.9981
+Train RMSE: 0.0396
+Test R2: 0.9787
+Test RMSE: 0.1359
+
+RF:
+Train R2: 0.9926
+Train RMSE: 0.0785
+Test R2: 0.9853
+Test RMSE: 0.1129
+
+ANN:
+Train R2: 0.9877
+Train RMSE: 0.1013
+Test R2: 0.9876
+Test RMSE: 0.1037
+
+LSTM:
+Train R2: 0.9744
+Train RMSE: 0.1463
+Test R2: 0.9770
+Test RMSE: 0.1412

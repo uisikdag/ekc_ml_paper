@@ -1,0 +1,114 @@
+Results for NEWZEALAND
+======================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.7748
+Train RMSE: 0.3353
+Test R2: 0.7030
+Test RMSE: 0.3307
+
+SVR:
+Train R2: 0.9804
+Train RMSE: 0.0988
+Test R2: 0.9675
+Test RMSE: 0.1094
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9902
+Test RMSE: 0.0602
+
+DT:
+Train R2: 0.9995
+Train RMSE: 0.0165
+Test R2: 0.9660
+Test RMSE: 0.1119
+
+XGB:
+Train R2: 0.9947
+Train RMSE: 0.0513
+Test R2: 0.9670
+Test RMSE: 0.1103
+
+CAT:
+Train R2: 0.9966
+Train RMSE: 0.0411
+Test R2: 0.9814
+Test RMSE: 0.0828
+
+RF:
+Train R2: 0.9869
+Train RMSE: 0.0808
+Test R2: 0.9562
+Test RMSE: 0.1270
+
+ANN:
+Train R2: 0.9885
+Train RMSE: 0.0758
+Test R2: 0.9832
+Test RMSE: 0.0787
+
+LSTM:
+Train R2: 0.9830
+Train RMSE: 0.0921
+Test R2: 0.9796
+Test RMSE: 0.0867
+
+SO2 Results:
+
+EKC:
+Train R2: 0.6354
+Train RMSE: 0.2266
+Test R2: 0.6117
+Test RMSE: 0.2263
+
+SVR:
+Train R2: 0.9403
+Train RMSE: 0.0917
+Test R2: 0.9355
+Test RMSE: 0.0923
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9544
+Test RMSE: 0.0776
+
+DT:
+Train R2: 0.9698
+Train RMSE: 0.0652
+Test R2: 0.8971
+Test RMSE: 0.1165
+
+XGB:
+Train R2: 0.9927
+Train RMSE: 0.0321
+Test R2: 0.9036
+Test RMSE: 0.1128
+
+CAT:
+Train R2: 0.9970
+Train RMSE: 0.0206
+Test R2: 0.9349
+Test RMSE: 0.0927
+
+RF:
+Train R2: 0.9811
+Train RMSE: 0.0516
+Test R2: 0.9437
+Test RMSE: 0.0862
+
+ANN:
+Train R2: 0.9618
+Train RMSE: 0.0734
+Test R2: 0.9580
+Test RMSE: 0.0744
+
+LSTM:
+Train R2: 0.9572
+Train RMSE: 0.0776
+Test R2: 0.9499
+Test RMSE: 0.0813

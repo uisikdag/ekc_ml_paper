@@ -1,0 +1,114 @@
+Results for FRANCE
+==================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.9633
+Train RMSE: 0.0986
+Test R2: 0.9449
+Test RMSE: 0.1136
+
+SVR:
+Train R2: 0.9749
+Train RMSE: 0.0816
+Test R2: 0.9531
+Test RMSE: 0.1049
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9649
+Test RMSE: 0.0908
+
+DT:
+Train R2: 0.9911
+Train RMSE: 0.0484
+Test R2: 0.9556
+Test RMSE: 0.1020
+
+XGB:
+Train R2: 0.9943
+Train RMSE: 0.0390
+Test R2: 0.9643
+Test RMSE: 0.0914
+
+CAT:
+Train R2: 0.9972
+Train RMSE: 0.0271
+Test R2: 0.9699
+Test RMSE: 0.0840
+
+RF:
+Train R2: 0.9875
+Train RMSE: 0.0575
+Test R2: 0.9591
+Test RMSE: 0.0979
+
+ANN:
+Train R2: 0.9790
+Train RMSE: 0.0746
+Test R2: 0.9581
+Test RMSE: 0.0991
+
+LSTM:
+Train R2: 0.9723
+Train RMSE: 0.0856
+Test R2: 0.9498
+Test RMSE: 0.1085
+
+SO2 Results:
+
+EKC:
+Train R2: 0.9356
+Train RMSE: 0.1725
+Test R2: 0.9526
+Test RMSE: 0.1479
+
+SVR:
+Train R2: 0.9892
+Train RMSE: 0.0706
+Test R2: 0.9795
+Test RMSE: 0.0972
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9795
+Test RMSE: 0.0972
+
+DT:
+Train R2: 0.9900
+Train RMSE: 0.0679
+Test R2: 0.9686
+Test RMSE: 0.1203
+
+XGB:
+Train R2: 0.9985
+Train RMSE: 0.0263
+Test R2: 0.9765
+Test RMSE: 0.1042
+
+CAT:
+Train R2: 0.9977
+Train RMSE: 0.0329
+Test R2: 0.9842
+Test RMSE: 0.0854
+
+RF:
+Train R2: 0.9963
+Train RMSE: 0.0413
+Test R2: 0.9795
+Test RMSE: 0.0973
+
+ANN:
+Train R2: 0.9863
+Train RMSE: 0.0795
+Test R2: 0.9735
+Test RMSE: 0.1106
+
+LSTM:
+Train R2: 0.9707
+Train RMSE: 0.1163
+Test R2: 0.9588
+Test RMSE: 0.1379

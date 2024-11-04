@@ -1,0 +1,114 @@
+Results for AUSTRALIA
+=====================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.8481
+Train RMSE: 0.4125
+Test R2: 0.7822
+Test RMSE: 0.4604
+
+SVR:
+Train R2: 0.9945
+Train RMSE: 0.0786
+Test R2: 0.9840
+Test RMSE: 0.1250
+
+KNN:
+Train R2: 0.9943
+Train RMSE: 0.0799
+Test R2: 0.9818
+Test RMSE: 0.1331
+
+DT:
+Train R2: 0.9984
+Train RMSE: 0.0422
+Test R2: 0.9823
+Test RMSE: 0.1312
+
+XGB:
+Train R2: 0.9993
+Train RMSE: 0.0288
+Test R2: 0.9892
+Test RMSE: 0.1027
+
+CAT:
+Train R2: 0.9985
+Train RMSE: 0.0407
+Test R2: 0.9831
+Test RMSE: 0.1281
+
+RF:
+Train R2: 0.9986
+Train RMSE: 0.0392
+Test R2: 0.9882
+Test RMSE: 0.1072
+
+ANN:
+Train R2: 0.9943
+Train RMSE: 0.0800
+Test R2: 0.9867
+Test RMSE: 0.1138
+
+LSTM:
+Train R2: 0.9937
+Train RMSE: 0.0842
+Test R2: 0.9860
+Test RMSE: 0.1168
+
+SO2 Results:
+
+EKC:
+Train R2: 0.7020
+Train RMSE: 0.3230
+Test R2: 0.5568
+Test RMSE: 0.3916
+
+SVR:
+Train R2: 0.9654
+Train RMSE: 0.1101
+Test R2: 0.9592
+Test RMSE: 0.1188
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9730
+Test RMSE: 0.0967
+
+DT:
+Train R2: 0.9935
+Train RMSE: 0.0478
+Test R2: 0.9755
+Test RMSE: 0.0921
+
+XGB:
+Train R2: 0.9935
+Train RMSE: 0.0477
+Test R2: 0.9678
+Test RMSE: 0.1056
+
+CAT:
+Train R2: 0.9934
+Train RMSE: 0.0481
+Test R2: 0.9801
+Test RMSE: 0.0830
+
+RF:
+Train R2: 0.9882
+Train RMSE: 0.0644
+Test R2: 0.9859
+Test RMSE: 0.0699
+
+ANN:
+Train R2: 0.9707
+Train RMSE: 0.1013
+Test R2: 0.9556
+Test RMSE: 0.1239
+
+LSTM:
+Train R2: 0.9592
+Train RMSE: 0.1195
+Test R2: 0.9523
+Test RMSE: 0.1285

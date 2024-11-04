@@ -1,0 +1,114 @@
+Results for ITALY
+=================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.9194
+Train RMSE: 0.3839
+Test R2: 0.9510
+Test RMSE: 0.2658
+
+SVR:
+Train R2: 0.9655
+Train RMSE: 0.2510
+Test R2: 0.9933
+Test RMSE: 0.0981
+
+KNN:
+Train R2: 0.9750
+Train RMSE: 0.2138
+Test R2: 0.9924
+Test RMSE: 0.1045
+
+DT:
+Train R2: 0.9873
+Train RMSE: 0.1523
+Test R2: 0.9862
+Test RMSE: 0.1411
+
+XGB:
+Train R2: 0.9998
+Train RMSE: 0.0180
+Test R2: 0.9896
+Test RMSE: 0.1228
+
+CAT:
+Train R2: 0.9852
+Train RMSE: 0.1646
+Test R2: 0.9862
+Test RMSE: 0.1414
+
+RF:
+Train R2: 0.9766
+Train RMSE: 0.2069
+Test R2: 0.9881
+Test RMSE: 0.1311
+
+ANN:
+Train R2: 0.9692
+Train RMSE: 0.2372
+Test R2: 0.9899
+Test RMSE: 0.1210
+
+LSTM:
+Train R2: 0.9545
+Train RMSE: 0.2886
+Test R2: 0.9704
+Test RMSE: 0.2067
+
+SO2 Results:
+
+EKC:
+Train R2: 0.8974
+Train RMSE: 0.3797
+Test R2: 0.9382
+Test RMSE: 0.2609
+
+SVR:
+Train R2: 0.9872
+Train RMSE: 0.1339
+Test R2: 0.9858
+Test RMSE: 0.1251
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9621
+Test RMSE: 0.2045
+
+DT:
+Train R2: 0.9926
+Train RMSE: 0.1023
+Test R2: 0.9178
+Test RMSE: 0.3009
+
+XGB:
+Train R2: 0.9996
+Train RMSE: 0.0249
+Test R2: 0.9556
+Test RMSE: 0.2211
+
+CAT:
+Train R2: 0.9992
+Train RMSE: 0.0328
+Test R2: 0.9822
+Test RMSE: 0.1401
+
+RF:
+Train R2: 0.9907
+Train RMSE: 0.1143
+Test R2: 0.9607
+Test RMSE: 0.2082
+
+ANN:
+Train R2: 0.9932
+Train RMSE: 0.0974
+Test R2: 0.9804
+Test RMSE: 0.1470
+
+LSTM:
+Train R2: 0.9825
+Train RMSE: 0.1569
+Test R2: 0.9806
+Test RMSE: 0.1461

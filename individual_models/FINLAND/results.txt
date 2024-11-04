@@ -1,0 +1,114 @@
+Results for FINLAND
+===================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.9551
+Train RMSE: 0.4205
+Test R2: 0.9542
+Test RMSE: 0.4149
+
+SVR:
+Train R2: 0.9831
+Train RMSE: 0.2580
+Test R2: 0.9680
+Test RMSE: 0.3469
+
+KNN:
+Train R2: 0.9888
+Train RMSE: 0.2096
+Test R2: 0.9641
+Test RMSE: 0.3675
+
+DT:
+Train R2: 0.9865
+Train RMSE: 0.2307
+Test R2: 0.9782
+Test RMSE: 0.2863
+
+XGB:
+Train R2: 0.9982
+Train RMSE: 0.0842
+Test R2: 0.9776
+Test RMSE: 0.2903
+
+CAT:
+Train R2: 0.9995
+Train RMSE: 0.0444
+Test R2: 0.9694
+Test RMSE: 0.3390
+
+RF:
+Train R2: 0.9876
+Train RMSE: 0.2214
+Test R2: 0.9598
+Test RMSE: 0.3885
+
+ANN:
+Train R2: 0.9884
+Train RMSE: 0.2137
+Test R2: 0.9773
+Test RMSE: 0.2923
+
+LSTM:
+Train R2: 0.9681
+Train RMSE: 0.3546
+Test R2: 0.9426
+Test RMSE: 0.4646
+
+SO2 Results:
+
+EKC:
+Train R2: 0.9625
+Train RMSE: 0.4050
+Test R2: 0.9620
+Test RMSE: 0.4201
+
+SVR:
+Train R2: 0.9937
+Train RMSE: 0.1655
+Test R2: 0.9931
+Test RMSE: 0.1796
+
+KNN:
+Train R2: 0.9967
+Train RMSE: 0.1201
+Test R2: 0.9924
+Test RMSE: 0.1876
+
+DT:
+Train R2: 0.9986
+Train RMSE: 0.0778
+Test R2: 0.9918
+Test RMSE: 0.1956
+
+XGB:
+Train R2: 0.9997
+Train RMSE: 0.0351
+Test R2: 0.9932
+Test RMSE: 0.1770
+
+CAT:
+Train R2: 0.9990
+Train RMSE: 0.0654
+Test R2: 0.9948
+Test RMSE: 0.1558
+
+RF:
+Train R2: 0.9969
+Train RMSE: 0.1165
+Test R2: 0.9941
+Test RMSE: 0.1657
+
+ANN:
+Train R2: 0.9952
+Train RMSE: 0.1453
+Test R2: 0.9925
+Test RMSE: 0.1868
+
+LSTM:
+Train R2: 0.9925
+Train RMSE: 0.1808
+Test R2: 0.9925
+Test RMSE: 0.1868

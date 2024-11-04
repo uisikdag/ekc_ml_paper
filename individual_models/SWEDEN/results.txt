@@ -1,0 +1,114 @@
+Results for SWEDEN
+==================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.9302
+Train RMSE: 0.2457
+Test R2: 0.9623
+Test RMSE: 0.1746
+
+SVR:
+Train R2: 0.9785
+Train RMSE: 0.1362
+Test R2: 0.9911
+Test RMSE: 0.0850
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9706
+Test RMSE: 0.1542
+
+DT:
+Train R2: 0.9931
+Train RMSE: 0.0773
+Test R2: 0.9805
+Test RMSE: 0.1258
+
+XGB:
+Train R2: 0.9953
+Train RMSE: 0.0638
+Test R2: 0.9764
+Test RMSE: 0.1383
+
+CAT:
+Train R2: 0.9989
+Train RMSE: 0.0302
+Test R2: 0.9733
+Test RMSE: 0.1471
+
+RF:
+Train R2: 0.9952
+Train RMSE: 0.0647
+Test R2: 0.9750
+Test RMSE: 0.1422
+
+ANN:
+Train R2: 0.9837
+Train RMSE: 0.1186
+Test R2: 0.9653
+Test RMSE: 0.1675
+
+LSTM:
+Train R2: 0.9430
+Train RMSE: 0.2220
+Test R2: 0.9608
+Test RMSE: 0.1780
+
+SO2 Results:
+
+EKC:
+Train R2: 0.9522
+Train RMSE: 0.2435
+Test R2: 0.9584
+Test RMSE: 0.2305
+
+SVR:
+Train R2: 0.9847
+Train RMSE: 0.1378
+Test R2: 0.9891
+Test RMSE: 0.1181
+
+KNN:
+Train R2: 0.9923
+Train RMSE: 0.0980
+Test R2: 0.9860
+Test RMSE: 0.1338
+
+DT:
+Train R2: 0.9941
+Train RMSE: 0.0854
+Test R2: 0.9865
+Test RMSE: 0.1312
+
+XGB:
+Train R2: 0.9984
+Train RMSE: 0.0441
+Test R2: 0.9863
+Test RMSE: 0.1320
+
+CAT:
+Train R2: 0.9965
+Train RMSE: 0.0659
+Test R2: 0.9876
+Test RMSE: 0.1259
+
+RF:
+Train R2: 0.9963
+Train RMSE: 0.0681
+Test R2: 0.9835
+Test RMSE: 0.1453
+
+ANN:
+Train R2: 0.9888
+Train RMSE: 0.1180
+Test R2: 0.9836
+Test RMSE: 0.1447
+
+LSTM:
+Train R2: 0.9767
+Train RMSE: 0.1699
+Test R2: 0.9864
+Test RMSE: 0.1320

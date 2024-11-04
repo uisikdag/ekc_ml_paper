@@ -1,0 +1,114 @@
+Results for DENMARK
+===================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.9861
+Train RMSE: 0.1049
+Test R2: 0.9896
+Test RMSE: 0.0881
+
+SVR:
+Train R2: 0.9876
+Train RMSE: 0.0991
+Test R2: 0.9905
+Test RMSE: 0.0841
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9907
+Test RMSE: 0.0831
+
+DT:
+Train R2: 0.9926
+Train RMSE: 0.0766
+Test R2: 0.9799
+Test RMSE: 0.1222
+
+XGB:
+Train R2: 0.9980
+Train RMSE: 0.0398
+Test R2: 0.9845
+Test RMSE: 0.1074
+
+CAT:
+Train R2: 0.9959
+Train RMSE: 0.0568
+Test R2: 0.9920
+Test RMSE: 0.0770
+
+RF:
+Train R2: 0.9971
+Train RMSE: 0.0476
+Test R2: 0.9889
+Test RMSE: 0.0908
+
+ANN:
+Train R2: 0.9896
+Train RMSE: 0.0905
+Test R2: 0.9917
+Test RMSE: 0.0784
+
+LSTM:
+Train R2: 0.9853
+Train RMSE: 0.1079
+Test R2: 0.9842
+Test RMSE: 0.1082
+
+SO2 Results:
+
+EKC:
+Train R2: 0.9592
+Train RMSE: 0.1835
+Test R2: 0.9741
+Test RMSE: 0.1483
+
+SVR:
+Train R2: 0.9859
+Train RMSE: 0.1080
+Test R2: 0.9800
+Test RMSE: 0.1303
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9857
+Test RMSE: 0.1100
+
+DT:
+Train R2: 0.9999
+Train RMSE: 0.0087
+Test R2: 0.9571
+Test RMSE: 0.1909
+
+XGB:
+Train R2: 0.9995
+Train RMSE: 0.0212
+Test R2: 0.9640
+Test RMSE: 0.1749
+
+CAT:
+Train R2: 0.9971
+Train RMSE: 0.0491
+Test R2: 0.9871
+Test RMSE: 0.1046
+
+RF:
+Train R2: 0.9871
+Train RMSE: 0.1032
+Test R2: 0.9854
+Test RMSE: 0.1116
+
+ANN:
+Train R2: 0.9621
+Train RMSE: 0.1767
+Test R2: 0.9671
+Test RMSE: 0.1672
+
+LSTM:
+Train R2: 0.9595
+Train RMSE: 0.1829
+Test R2: 0.9750
+Test RMSE: 0.1456

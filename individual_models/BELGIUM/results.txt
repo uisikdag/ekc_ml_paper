@@ -1,0 +1,114 @@
+Results for BELGIUM
+===================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.8208
+Train RMSE: 0.1340
+Test R2: 0.8460
+Test RMSE: 0.1132
+
+SVR:
+Train R2: 0.8933
+Train RMSE: 0.1034
+Test R2: 0.9041
+Test RMSE: 0.0893
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9345
+Test RMSE: 0.0739
+
+DT:
+Train R2: 0.9609
+Train RMSE: 0.0626
+Test R2: 0.8399
+Test RMSE: 0.1155
+
+XGB:
+Train R2: 0.9941
+Train RMSE: 0.0244
+Test R2: 0.9143
+Test RMSE: 0.0845
+
+CAT:
+Train R2: 0.9933
+Train RMSE: 0.0259
+Test R2: 0.9154
+Test RMSE: 0.0839
+
+RF:
+Train R2: 0.9852
+Train RMSE: 0.0385
+Test R2: 0.8875
+Test RMSE: 0.0968
+
+ANN:
+Train R2: 0.9303
+Train RMSE: 0.0836
+Test R2: 0.9149
+Test RMSE: 0.0842
+
+LSTM:
+Train R2: 0.9001
+Train RMSE: 0.1001
+Test R2: 0.9065
+Test RMSE: 0.0883
+
+SO2 Results:
+
+EKC:
+Train R2: 0.8880
+Train RMSE: 0.1664
+Test R2: 0.9043
+Test RMSE: 0.1551
+
+SVR:
+Train R2: 0.9675
+Train RMSE: 0.0897
+Test R2: 0.9279
+Test RMSE: 0.1346
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9545
+Test RMSE: 0.1069
+
+DT:
+Train R2: 0.9687
+Train RMSE: 0.0880
+Test R2: 0.8171
+Test RMSE: 0.2145
+
+XGB:
+Train R2: 0.9998
+Train RMSE: 0.0078
+Test R2: 0.9467
+Test RMSE: 0.1158
+
+CAT:
+Train R2: 0.9905
+Train RMSE: 0.0484
+Test R2: 0.9360
+Test RMSE: 0.1268
+
+RF:
+Train R2: 0.9902
+Train RMSE: 0.0492
+Test R2: 0.9189
+Test RMSE: 0.1428
+
+ANN:
+Train R2: 0.9748
+Train RMSE: 0.0789
+Test R2: 0.9420
+Test RMSE: 0.1208
+
+LSTM:
+Train R2: 0.9405
+Train RMSE: 0.1213
+Test R2: 0.8750
+Test RMSE: 0.1773

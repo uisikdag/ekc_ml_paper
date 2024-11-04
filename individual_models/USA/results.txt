@@ -1,0 +1,114 @@
+Results for USA
+===============
+
+CO2 Results:
+
+EKC:
+Train R2: 0.8800
+Train RMSE: 0.7281
+Test R2: 0.8958
+Test RMSE: 0.5186
+
+SVR:
+Train R2: 0.9197
+Train RMSE: 0.5955
+Test R2: 0.9778
+Test RMSE: 0.2392
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9857
+Test RMSE: 0.1920
+
+DT:
+Train R2: 0.9991
+Train RMSE: 0.0636
+Test R2: 0.9962
+Test RMSE: 0.0989
+
+XGB:
+Train R2: 0.9865
+Train RMSE: 0.2447
+Test R2: 0.9939
+Test RMSE: 0.1249
+
+CAT:
+Train R2: 0.9787
+Train RMSE: 0.3066
+Test R2: 0.9781
+Test RMSE: 0.2376
+
+RF:
+Train R2: 0.9872
+Train RMSE: 0.2380
+Test R2: 0.9974
+Test RMSE: 0.0816
+
+ANN:
+Train R2: 0.9192
+Train RMSE: 0.5974
+Test R2: 0.9887
+Test RMSE: 0.1707
+
+LSTM:
+Train R2: 0.9221
+Train RMSE: 0.5866
+Test R2: 0.9618
+Test RMSE: 0.3138
+
+SO2 Results:
+
+EKC:
+Train R2: 0.8771
+Train RMSE: 0.1573
+Test R2: 0.8327
+Test RMSE: 0.1608
+
+SVR:
+Train R2: 0.9881
+Train RMSE: 0.0489
+Test R2: 0.9784
+Test RMSE: 0.0578
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9662
+Test RMSE: 0.0722
+
+DT:
+Train R2: 0.9966
+Train RMSE: 0.0263
+Test R2: 0.9508
+Test RMSE: 0.0871
+
+XGB:
+Train R2: 0.9968
+Train RMSE: 0.0253
+Test R2: 0.9693
+Test RMSE: 0.0688
+
+CAT:
+Train R2: 0.9950
+Train RMSE: 0.0316
+Test R2: 0.9697
+Test RMSE: 0.0684
+
+RF:
+Train R2: 0.9809
+Train RMSE: 0.0621
+Test R2: 0.9508
+Test RMSE: 0.0872
+
+ANN:
+Train R2: 0.9759
+Train RMSE: 0.0696
+Test R2: 0.9635
+Test RMSE: 0.0750
+
+LSTM:
+Train R2: 0.9729
+Train RMSE: 0.0738
+Test R2: 0.9576
+Test RMSE: 0.0809

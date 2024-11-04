@@ -1,0 +1,114 @@
+Results for SWITZERLAND
+=======================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.5270
+Train RMSE: 0.5293
+Test R2: 0.5392
+Test RMSE: 0.5042
+
+SVR:
+Train R2: 0.4697
+Train RMSE: 0.5604
+Test R2: 0.4606
+Test RMSE: 0.5456
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9286
+Test RMSE: 0.1985
+
+DT:
+Train R2: 0.9830
+Train RMSE: 0.1002
+Test R2: 0.9583
+Test RMSE: 0.1517
+
+XGB:
+Train R2: 0.9820
+Train RMSE: 0.1031
+Test R2: 0.9603
+Test RMSE: 0.1479
+
+CAT:
+Train R2: 0.9964
+Train RMSE: 0.0461
+Test R2: 0.9827
+Test RMSE: 0.0976
+
+RF:
+Train R2: 0.9723
+Train RMSE: 0.1281
+Test R2: 0.9103
+Test RMSE: 0.2225
+
+ANN:
+Train R2: 0.8723
+Train RMSE: 0.2750
+Test R2: 0.8895
+Test RMSE: 0.2470
+
+LSTM:
+Train R2: 0.4899
+Train RMSE: 0.5496
+Test R2: 0.5494
+Test RMSE: 0.4986
+
+SO2 Results:
+
+EKC:
+Train R2: 0.7289
+Train RMSE: 0.4083
+Test R2: 0.8761
+Test RMSE: 0.2846
+
+SVR:
+Train R2: 0.8555
+Train RMSE: 0.2981
+Test R2: 0.9596
+Test RMSE: 0.1625
+
+KNN:
+Train R2: 0.9313
+Train RMSE: 0.2055
+Test R2: 0.9654
+Test RMSE: 0.1503
+
+DT:
+Train R2: 0.9331
+Train RMSE: 0.2029
+Test R2: 0.9429
+Test RMSE: 0.1933
+
+XGB:
+Train R2: 0.9916
+Train RMSE: 0.0719
+Test R2: 0.9641
+Test RMSE: 0.1533
+
+CAT:
+Train R2: 0.9879
+Train RMSE: 0.0862
+Test R2: 0.9641
+Test RMSE: 0.1532
+
+RF:
+Train R2: 0.9314
+Train RMSE: 0.2054
+Test R2: 0.9578
+Test RMSE: 0.1662
+
+ANN:
+Train R2: 0.9331
+Train RMSE: 0.2028
+Test R2: 0.9339
+Test RMSE: 0.2079
+
+LSTM:
+Train R2: 0.9602
+Train RMSE: 0.1564
+Test R2: 0.9341
+Test RMSE: 0.2075

@@ -1,0 +1,114 @@
+Results for SPAIN
+=================
+
+CO2 Results:
+
+EKC:
+Train R2: 0.9452
+Train RMSE: 0.2294
+Test R2: 0.9425
+Test RMSE: 0.2182
+
+SVR:
+Train R2: 0.9457
+Train RMSE: 0.2284
+Test R2: 0.9614
+Test RMSE: 0.1787
+
+KNN:
+Train R2: 1.0000
+Train RMSE: 0.0000
+Test R2: 0.9902
+Test RMSE: 0.0900
+
+DT:
+Train R2: 0.9898
+Train RMSE: 0.0991
+Test R2: 0.9817
+Test RMSE: 0.1230
+
+XGB:
+Train R2: 0.9995
+Train RMSE: 0.0213
+Test R2: 0.9899
+Test RMSE: 0.0916
+
+CAT:
+Train R2: 0.9936
+Train RMSE: 0.0783
+Test R2: 0.9927
+Test RMSE: 0.0778
+
+RF:
+Train R2: 0.9924
+Train RMSE: 0.0852
+Test R2: 0.9912
+Test RMSE: 0.0855
+
+ANN:
+Train R2: 0.9835
+Train RMSE: 0.1260
+Test R2: 0.9852
+Test RMSE: 0.1107
+
+LSTM:
+Train R2: 0.9492
+Train RMSE: 0.2209
+Test R2: 0.9619
+Test RMSE: 0.1775
+
+SO2 Results:
+
+EKC:
+Train R2: 0.9146
+Train RMSE: 0.2153
+Test R2: 0.8773
+Test RMSE: 0.2453
+
+SVR:
+Train R2: 0.9899
+Train RMSE: 0.0742
+Test R2: 0.9899
+Test RMSE: 0.0702
+
+KNN:
+Train R2: 0.9922
+Train RMSE: 0.0650
+Test R2: 0.9919
+Test RMSE: 0.0631
+
+DT:
+Train R2: 0.9915
+Train RMSE: 0.0678
+Test R2: 0.9840
+Test RMSE: 0.0887
+
+XGB:
+Train R2: 0.9972
+Train RMSE: 0.0393
+Test R2: 0.9820
+Test RMSE: 0.0940
+
+CAT:
+Train R2: 0.9983
+Train RMSE: 0.0305
+Test R2: 0.9895
+Test RMSE: 0.0717
+
+RF:
+Train R2: 0.9905
+Train RMSE: 0.0719
+Test R2: 0.9855
+Test RMSE: 0.0845
+
+ANN:
+Train R2: 0.9904
+Train RMSE: 0.0723
+Test R2: 0.9918
+Test RMSE: 0.0634
+
+LSTM:
+Train R2: 0.9878
+Train RMSE: 0.0813
+Test R2: 0.9898
+Test RMSE: 0.0707
